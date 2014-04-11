@@ -5,7 +5,7 @@ Go to http://gaiussensei.github.io/ws-gate :) All of the decks & collections are
 
 ###Offline Mode
 
-You may click the "Download as ZIP" button on the [Github Project page](https://github.com/GaiusSensei/ws-gate), and open the 'index.html' file from your browser.  
+Switch branches from "master" (the default branch) to "gh-pages" on the top of the [Github Project page](https://github.com/GaiusSensei/ws-gate). Afterwards, click the "Download as ZIP" button, unzip the file and open the 'index.html' file on your browser.  
 
 ###F.A.Q.
 
