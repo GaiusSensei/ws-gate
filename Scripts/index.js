@@ -51,6 +51,8 @@ var loadAllCards = function loadAllCardsF() {
     head.load("Scripts/cardsets/S20.js", //
         "Scripts/cardsets/S15.js", //
         "Scripts/cardsets/S17.js", //
+        "Scripts/cardsets/W17.js", //
+        "Scripts/cardsets/S22.js", //
 
         function loadDoneF() {
             $('#tblCardBrowser > tbody').empty();
