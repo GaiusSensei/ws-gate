@@ -1,4 +1,4 @@
-(function(gate, undefined) {
+﻿(function(gate, undefined) {
     var cardsetCode = "SAO/S20"; // <-- IMPORTANT
     if(gate.cardsets == null) gate.cardsets = [];
     if(gate.cardset == null) gate.cardset = {};
@@ -1571,7 +1571,7 @@
             Cost: "0",
             Power: "1500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "Papa... Mama... I remember everything now...",
             Effect: "[S] [(1)] Draw 1 card, and discard a card from your hand to the Waiting Room. [S] [Rest another Character of yours and this] Choose 1 of your Characters. That Character gains +1000 Power until the end of your Opponent's next turn."
@@ -1588,7 +1588,7 @@
             Cost: "0",
             Power: "1500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "SECRET",
             Effect: "[S] [(1)] Draw 1 card, and discard a card from your hand to the Waiting Room. [S] [Rest another Character of yours and this] Choose 1 of your Characters. That Character gains +1000 Power until the end of your Opponent's next turn."
@@ -1724,7 +1724,7 @@
             Cost: "1",
             Power: "8000",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "Soul",
             Flavor: "<Mental Health Counseling Program> Prototype No.1, Codename <Yui>, that is me",
             Effect: "[A] [(2)] When this attacks, if \"Sudden Farewell\" is in the Cliamx Zone, you may pay cost. If so, draw up to 2 cards."
@@ -1741,7 +1741,7 @@
             Cost: "1",
             Power: "8000",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "Soul",
             Flavor: "SECRET",
             Effect: "[A] [(2)] When this attacks, if \"Sudden Farewell\" is in the Cliamx Zone, you may pay cost. If so, draw up to 2 cards."
@@ -1860,7 +1860,7 @@
             Cost: "0",
             Power: "500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "I want the same thing as papa",
             Effect: "[C] ASSIST All your Characters in front of this gain +500 Power. [S] [Rest this] Choose 1 of your Characters with either \"Kirito\" or \"Asuna\" in name. That Character gains +500 Power for the turn."
@@ -1928,7 +1928,7 @@
             Cost: "0",
             Power: "5500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "Mama!",
             Effect: "-- None --"
@@ -2285,7 +2285,7 @@
             Cost: "0",
             Power: "500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "I want the same thing as papa",
             Effect: "[C] ASSIST All your Characters in front of this gain +500 Power. [S] [Rest this] Choose 1 of your Characters with either \"Kirito\" or \"Asuna\" in name. That Character gains +500 Power for the turn."
@@ -2302,7 +2302,7 @@
             Cost: "0",
             Power: "5500",
             Soul: "1",
-            Traits: ["", ""],
+            Traits: ["Net", ""],
             Triggers: "None",
             Flavor: "It's delicious",
             Effect: "-- None --"
