@@ -18,7 +18,9 @@ head.load("bower_components/jquery/dist/jquery.min.js", //
             "bScrollInfinite": true,
             "bScrollCollapse": true,
             "sScrollY": "340px",
-            "aaSorting": [[ 3, "asc" ]],
+            "aaSorting": [
+                [3, "asc"]
+            ],
             "aoColumnDefs": [{
                 "bSortable": false,
                 "aTargets": [0, 2]
@@ -47,6 +49,8 @@ var changeRow = function changeRowF(row) {
 };
 var loadAllCards = function loadAllCardsF() {
     head.load("Scripts/cardsets/S20.js", //
+        "Scripts/cardsets/S15.js", //
+        "Scripts/cardsets/S17.js", //
 
         function loadDoneF() {
             $('#tblCardBrowser > tbody').empty();
